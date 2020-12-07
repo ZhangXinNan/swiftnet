@@ -2,3 +2,10 @@ lib/cylib.c
 lib/cylib.cc
 lib/cylib.html
 lib/cylib.so
+
+
+.idea/
+.vscode/
+.DS_Store
+*.py[cod]
+
